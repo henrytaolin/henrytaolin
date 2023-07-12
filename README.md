@@ -7,3 +7,5 @@ I'm a Frontend Developer from Jakarta. I Design And Code Simple Things, And I Lo
 - 📫 How to reach me: [Instagram](www.instagram.com/henrytaolin)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im The Happy Man!
+
+[![henrytaolin's github stats](https://github-readme-stats.vercel.app/api?username=henrytaolin)](https://github.com/henrytaolin/github-readme-stats)
