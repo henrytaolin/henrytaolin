@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source
 - 📫 How to reach me: [Instagram](www.instagram.com/henrytaolin
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im The Happy Man
+- ⚡ Fun fact: Im The Happy Man!
 -->
