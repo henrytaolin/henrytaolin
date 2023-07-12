@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nana Henry
+# Hi there 👋, I'm Nana Henry
 I'm a Frontend Developer from Jakarta. I Design And Code Simple Things, And I Love What I Do.
 
 ## Skills and Experience
