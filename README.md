@@ -8,7 +8,7 @@ Adept at designing effective Meta ad Campaigns and Automating sales process thro
 I commited to continous learning and staying ahead of industry trends.
 
 ## Skills and Experience
-* 💻 Power BI
+* 💻 Power BI, HTML, CSS
 * ✨ MySQL, PostgreSQL, Microsoft Excel
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/henrytaolin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/henrytaolin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/henrytaolin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nana-henry.netlify.app/)  
